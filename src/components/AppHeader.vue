@@ -55,7 +55,7 @@ export default {
   }
 }
 
-@media screen and(max-width: 1920px) {
+@media screen and(min-width: 1920px) {
   .header {
     justify-content: center;
     padding-left: 0;
