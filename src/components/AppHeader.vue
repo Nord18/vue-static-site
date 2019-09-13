@@ -55,6 +55,13 @@ export default {
   }
 }
 
+@media screen and(max-width: 1920px) {
+  .header {
+    justify-content: center;
+    padding-left: 0;
+  }
+}
+
 @media screen and(max-width: 576px) {
   .header {
     padding-left: 0;
