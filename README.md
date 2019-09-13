@@ -1,4 +1,10 @@
-# task_abz-agency
+Task for abz-agency
+-----
+
+by Vue JS (include ES5, ES6)
+
+[Demo](https://nord18.github.io/task-abz-agency/dist/)
+
 
 ## Project setup
 ```
@@ -14,16 +20,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

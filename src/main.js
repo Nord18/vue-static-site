@@ -1,6 +1,11 @@
 import Vue from 'vue'
 import App from './App.vue'
 import store from './store'
+import Vuelidate from 'vuelidate'
+import vueSmoothScroll from 'vue2-smooth-scroll'
+
+Vue.use(vueSmoothScroll)
+Vue.use(Vuelidate)
 
 Vue.config.productionTip = false
 
