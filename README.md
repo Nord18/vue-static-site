@@ -1,6 +1,3 @@
-Task for abz-agency
------
-
 by Vue JS (include ES5, ES6)
 
 [Demo](https://nord18.github.io/task-abz-agency/dist/index.html)
